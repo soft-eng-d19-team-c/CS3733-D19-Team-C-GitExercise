@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Jacob Tutlis");
         System.out.println("Matt Burd");
         System.out.println("Wenjing Ying");
-        System.out.println("Shine Linn Thant");
+        System.out.println("Shine Lin Thant");
+
     }
 }
