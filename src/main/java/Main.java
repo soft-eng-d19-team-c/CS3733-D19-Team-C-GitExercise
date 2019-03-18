@@ -5,13 +5,9 @@ public class Main {
         System.out.println("Fay Whittall");
         System.out.println("Lara Padir");
         System.out.println("Kyle Heavey");
-<<<<<<< HEAD
         System.out.println("Linda Puzey");
-=======
         System.out.println("Jacob Tutlis");
         System.out.println("Matt Burd");
 
-
->>>>>>> origin/master
     }
 }
