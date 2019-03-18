@@ -3,6 +3,8 @@ public class Main {
         System.out.println("Hello");
         System.out.println("Ryan LaMarche");
         System.out.println("Fay Whittall");
+        Sysytem.out.println("Lara Padir");
+        System.out.println("Kyle Heavey");
         System.out.println("Linda Puzey");
     }
 }
